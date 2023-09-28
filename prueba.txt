@@ -1,2 +1,31 @@
-c:=d*(e-21)/4
+program
 
+init {
+int1,int2,int3 : Int
+}
+
+a=4+8
+
+VAR= ConcatenarConRecorte ("HOLA","LOLO",4)
+
+RE = FirstIndexOf(a; [1,b,2,-5,z,C])
+
+if(A == 4)
+{
+write("HOLAA")
+}
+else
+{
+read(AX)
+}
+
+ciclo ( B == 5)
+{
+
+VAR = 78 * 85
+
+}
+
+
+
+end
